@@ -1,0 +1,7 @@
+C:\Users\vic\source\repos\asp-video-info-helper\asp-video-info-helper\bin\Debug\asp-video-info-helper.exe.config
+C:\Users\vic\source\repos\asp-video-info-helper\asp-video-info-helper\bin\Debug\asp-video-info-helper.exe
+C:\Users\vic\source\repos\asp-video-info-helper\asp-video-info-helper\bin\Debug\asp-video-info-helper.pdb
+C:\Users\vic\source\repos\asp-video-info-helper\asp-video-info-helper\obj\Debug\asp-video-info-helper.csprojAssemblyReference.cache
+C:\Users\vic\source\repos\asp-video-info-helper\asp-video-info-helper\obj\Debug\asp-video-info-helper.csproj.CoreCompileInputs.cache
+C:\Users\vic\source\repos\asp-video-info-helper\asp-video-info-helper\obj\Debug\asp-video-info-helper.exe
+C:\Users\vic\source\repos\asp-video-info-helper\asp-video-info-helper\obj\Debug\asp-video-info-helper.pdb

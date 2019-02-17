@@ -1,0 +1,7 @@
+ffmpeg -ss 3 -i f.mp4 -vf "select=gt(scene\,0.4)" -frames:v 5 -vsync vfr -vf fps=fps=1/817.7096 out%02d.jpg
+
+// create new copy of the movie file with a specified file as the thumbnail picture
+ffmpeg -i c.mp4 -i preview.png -map 0 -map 1 -c copy -c:v:1 png -disposition:v:1 attached_pic out2.mp4
+
+// create an image file that tiles sections of a movie file into one image
+ffmpeg -i e.mp4 -vf fps=fps=1/68,scale=160:120,tile -frames:v 1 preview4.png
